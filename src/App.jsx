@@ -1,4 +1,4 @@
-import {RandomPassword} from './componets/rendompassword'
+import {RandomPassword} from './components/rendompassword'
 
 
 function App() {
